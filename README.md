@@ -10,7 +10,7 @@ The tools that help me navigate the data universe:
 - [x] Programming: SQL for quering datasets and preparing data for visualisation; Javascript, HTML, and CSS for designing digital content.
 
 ## About Me
-I have extensive experience in international communication, which enables me to effectively communicate with both people and data.
+I have extensive experience in international communication, which enables me to effectively communicate with both people and data in Lithuanian, English, Russian, French, and Finnish. Also, in SQL, JavaScript, HTML, CSS, and Python.
 I am a passionate explorer of new technologies, with a particular interest in data analytics and the impact it can have.
 
 ## What You'll Find Here
