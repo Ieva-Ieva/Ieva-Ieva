@@ -6,7 +6,7 @@ I'm an aspiring data analyst, utilizing my communication skills to talk to data 
 ## My Data Exploration Journey 🌟
 The tools that help me navigate the data universe:
 - [x] Data Manipulation: BigQuery, Excel, and Google Sheets for converting unprocessed data into meaningful insights.
-- [x] Data Visualization & Story Telling: Tableau and Power BI for visually representing findings, and reaching target audiences.
+- [x] Data Visualisation & Story Telling: Tableau and Power BI for visually representing findings, and reaching target audiences.
 - [x] Programming: SQL for quering datasets and preparing data for visualisation; Javascript, HTML, and CSS for designing digital content.
 
 ## About Me
