@@ -1,5 +1,5 @@
 # Hello and Welcome to My GitHub Profile!👋
-## I am Ieva 🌙 Enjoying the Journey from Excelling in People Communication to Becoming an Excellent Data Communicator 🚀📊
+## I am Ieva ☀️ Enjoying the Journey from Excelling in People Communication to Becoming an Excellent Data Communicator 🚀📊
 
 I'm an aspiring data analyst, utilizing my communication skills to talk to data and derive actionable insights. Continuously learning in the dynamic world of data and technology, this profile presents my projects in data analysis.
 
