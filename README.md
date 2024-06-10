@@ -17,4 +17,4 @@ As a passionate explorer of new technologies, I am particularly interested in th
 Projects that I conducted while studying at Turing College and independently, showcasing my skills and interests.
 
 ## Let's Connect
-Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ieva-kosait%C4%97-5ab8381b6/)
+Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
