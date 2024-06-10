@@ -18,3 +18,7 @@ Projects that I conducted while studying at Turing College and independently, sh
 
 ## Let's Connect
 Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ieva-kosait%C4%97-5ab8381b6))
+
+
+                                [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/your-linkedin-username))
+
