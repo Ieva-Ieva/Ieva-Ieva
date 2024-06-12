@@ -3,8 +3,8 @@
 🎓 I'm an aspiring data analyst applying my communication skills and experience to talk to data and derive actionable insights.  
 💡 Passionate about using data to tell compelling stories and make data-driven decisions.  
 📚 Constant learner always looking to enhance my skills and knowledge.  
-🏃‍♀️ I enjoy staying active through walking, running, swimming, and dancing. 
-🐾 I adore all animals, and my Shar Pei, Rio 🐶, is one of them.
+🏃‍♀️ I enjoy staying active through walking, running, swimming, and dancing.  
+🐾 I adore animals, and my Shar Pei, Rio 🐶, is one of them.
 
 ## 🛠️ Skills
 - 💻 **Languages**: SQL, Python, JavaScript
