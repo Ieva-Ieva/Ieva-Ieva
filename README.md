@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ieva
 
-## 🚀 About Me
 🎓 I'm an aspiring data analyst applying my communication skills and experience to talk to data and derive actionable insights.
 💡 Passionate about using data to tell compelling stories and make data-driven decisions.
+
 
 ## 🛠️ Skills
 - 💻 **Languages**: SQL, Python, JavaScript
