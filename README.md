@@ -1,26 +1,5 @@
 # 👋 Hi, I'm Ieva
 
-🎓 I'm an aspiring data analyst applying my communication skills and experience to talk to data and derive actionable insights.
-💡 Passionate about using data to tell compelling stories and make data-driven decisions.
-
-
-## 🛠️ Skills
-- 💻 **Languages**: SQL, Python, JavaScript
-- 🧰 **Tools**: VS Code, GitHub, Tableau
-- 🖥️ **Technologies**: HTML, CSS
-
-## 🌟 My Data Exploration Journey
-I'm on a continuous journey to explore the data universe, and here's how I navigate it:
-- [x] **Data Manipulation**: BigQuery, Excel, and Google Sheets for converting unprocessed data into meaningful insights.
-- [x] **Data Visualisation & Story Telling**: Leveraging Tableau and Power BI to create visual narratives that resonate with target audiences.
-- [x] **Programming**: Applying SQL for data querying and preparation, and utilising JavaScript, HTML, and CSS for developing digital content.
-
-## 📬 Get in Touch
-- LinkedIn: [Ieva Kosaite](https://www.linkedin.com/in/ieva-kosaite)
-- Email: <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" height="20"> [ieva@gmail.com](mailto:ieva@gmail.com)
-
-# 👋 Hi, I'm Ieva
-
 🎓 I'm an aspiring data analyst applying my communication skills and experience to talk to data and derive actionable insights.  
 💡 Passionate about using data to tell compelling stories and make data-driven decisions.  
 📚 Constant learner always looking to enhance my skills and knowledge.
