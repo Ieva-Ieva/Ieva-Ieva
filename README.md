@@ -19,3 +19,26 @@ Projects that I conducted while studying at Turing College and independently, sh
 ## Let's Connect
 Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieva-kosaite)
 
+# 👋 Hi, I'm Ieva
+
+## 🚀 About Me
+🎓 I'm an aspiring Data Analyst with a background in international relations and communication.
+💡 Passionate about using data to tell compelling stories and make data-driven decisions.
+
+## 🛠️ Skills
+- 💻 **Languages**: Python, SQL, JavaScript
+- 🧰 **Tools**: VS Code, GitHub, Tableau
+- 🖥️ **Technologies**: HTML, CSS
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ieva-Ieva&show_icons=true&theme=radical)
+
+## 📬 Get in Touch
+- LinkedIn: [Ieva Kosaite](https://www.linkedin.com/in/ieva-kosaite)
+- Email: [ieva@example.com](mailto:ieva@example.com)
+
+## 📚 Projects
+- [Project 1](https://github.com/Ieva-Ieva/project1): Description of project 1
+- [Project 2](https://github.com/Ieva-Ieva/project2): Description of project 2
+
+
