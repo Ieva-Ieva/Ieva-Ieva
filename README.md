@@ -17,6 +17,13 @@ I'm on a continuous journey to explore the data universe, and here's how I navig
 - [x] **Data Visualisation & Story Telling**: Leveraging Tableau and Power BI to create visual narratives that resonate with target audiences.
 - [x] **Programming**: Applying SQL for data querying and preparation, and utilising JavaScript, HTML, and CSS for developing digital content.
 
+## 🌐 Languages
+- 🇱🇹 **Lithuanian**
+- 🇬🇧 **English**
+- 🇷🇺 **Russian**
+- 🇫🇷 **French**
+- 🇫🇮 **Finnish**
+
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieva-kosaite)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ieva@gmail.com)
