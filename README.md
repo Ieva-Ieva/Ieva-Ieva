@@ -17,6 +17,12 @@ I'm on a continuous journey to explore the data universe, and here's how I navig
 - [x] **Data Visualisation & Story Telling**: Leveraging Tableau and Power BI to create visual narratives that resonate with target audiences.
 - [x] **Programming**: Applying SQL for data querying and preparation, and utilising JavaScript, HTML, and CSS for developing digital content.
 
+## 🌟 My Data Exploration Journey
+I'm on a continuous journey to explore the data universe, and here's how I navigate it:
+- [x] **Data Manipulation**: BigQuery, Excel, and Google Sheets for converting unprocessed data into meaningful insights.
+- [x] **Data Visualisation & Story Telling**: Leveraging Tableau and Power BI to create visual narratives that resonate with target audiences.
+- [x] **Programming**: Applying SQL for data querying and preparation, and utilising JavaScript, HTML, and CSS for developing digital content.
+
 ## 🌐 Languages
 - 🇱🇹 **Lithuanian**
 - 🇬🇧 **English**
