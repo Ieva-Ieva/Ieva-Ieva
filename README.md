@@ -5,7 +5,6 @@
 📚 Constant learner always looking to enhance my skills and knowledge.  
 🏃‍♀️ I enjoy staying active through walking, running, swimming, and dancing.  
 🐾 I adore animals, and my Shar Pei, Rio 🐶, is one of them. 
-![Shar Pei](https://upload.wikimedia.org/wikipedia/commons/1/13/Sharpei_walking.jpg)
 
 ## 🛠️ Skills
 - 💻 **Languages**: SQL, Python, JavaScript
