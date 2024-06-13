@@ -13,6 +13,13 @@
 [![French](https://img.shields.io/badge/French-🇫🇷-lightblue?style=flat-square)](#) 
 [![Finnish](https://img.shields.io/badge/Finnish-🇫🇮-lightblue?style=flat-square)](#)
 
+## 🌐 Languages
+[![Lithuanian](https://img.shields.io/badge/Lithuanian-🇱🇹-lightblue?style=flat-square)](#)
+[![English](https://img.shields.io/badge/English-🇬🇧-lightblue?style=flat-square)](#)
+[![Finnish](https://img.shields.io/badge/Finnish-🇫🇮-lightblue?style=flat-square)](#)
+[![French](https://img.shields.io/badge/French-🇫🇷-lightblue?style=flat-square)](#)
+[![Russian](https://img.shields.io/badge/Russian-🇷🇺-lightblue?style=flat-square)](#)
+
 ## 🛠️ Skills
 - 💻 **Languages**: SQL, Python, JavaScript
 - 🧰 **Tools**: VS Code, GitHub, Tableau
