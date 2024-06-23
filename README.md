@@ -22,7 +22,7 @@
 I'm on a continuous journey to explore the data universe, and here's how I navigate it:
 - [x] **Data Manipulation**: BigQuery, Excel, and Google Sheets for converting unprocessed data into meaningful insights.
 - [x] **Data Visualisation & Story Telling**: Leveraging Tableau and Power BI to create visual narratives that resonate with target audiences.
-- [x] **Programming**: Applying SQL for data querying and preparation, and utilising JavaScript, HTML, and CSS for developing digital content.
+- [x] **Programming**: Applying SQL for data querying and preparation, Python for data exploration and automation, and utilising JavaScript, HTML, and CSS for developing digital content.
 
 ## 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ieva-kosaite)
