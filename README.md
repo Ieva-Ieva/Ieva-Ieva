@@ -4,7 +4,7 @@
 💡 Passionate about using data to tell compelling stories and make data-driven decisions.  
 📚 Constant learner always looking to enhance my skills and knowledge.  
 🏃‍♀️ I enjoy staying active through walking, running, swimming, and dancing.  
-🐾 I adore animals, and my Shar Pei, Rio 🐶, is one of them. 
+🐾 I adore animals, and my Shar Pei, Rio 🐶, is one of them.  
 
 ## 🌐 Languages
 [![Lithuanian](https://img.shields.io/badge/Lithuanian-🇱🇹-lightblue?style=flat-square)](#)
